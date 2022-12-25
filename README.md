@@ -5,7 +5,8 @@ A Counter web app built using HTML,CSS and JavaScript.
 
 **Web App in production environment**
 
-![expalnation](https://user-images.githubusercontent.com/75235148/204169548-6e222ec5-0599-4811-9d47-afbb362e700b.png)
+![webapp](https://user-images.githubusercontent.com/75235148/209466781-9b9a2a73-6e47-4cd6-b04e-f7f0db9a5a27.png)
+
 
 ## Tech Stack
 
