@@ -24,7 +24,7 @@ JavaScript is the programming language of the Web.
  git clone https://github.com/OleanjiKingCode/CounterApp.git
 
  cd CounterApp
- 
+
  code .
  ```
 
@@ -33,8 +33,8 @@ JavaScript is the programming language of the Web.
 
 
 
-## Deploy on Vercel
-The deployed app link: https://connect-wallet-drab.vercel.app/
+## Deployed on Vercel
+The deployed app link: https://counter-app-kappa-virid.vercel.app/
 
 
 ## About me
